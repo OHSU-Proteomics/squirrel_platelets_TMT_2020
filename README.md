@@ -13,7 +13,7 @@ Description of a TMT study of hibernating squirrel platelet samples performed at
 ***
 
 
-![slide 1](Squirrel_PW/Slide1.png)
+![slide 1](Squirrel_PW/Slide1.PNG)
 
 Slide 1 <br />
 This was a collaboration with Dr. Scott Cooper at the University of Wisconsin - La Crosse. It also involved Dr. Joe Aslan at OHSU, our resident platelet expert. Blood platelets were collected from [13-lined ground squirrels](https://en.wikipedia.org/wiki/Thirteen-lined_ground_squirrel) before, during, and after winter hibernation.
