@@ -5,7 +5,7 @@ Description of a TMT study of hibernating squirrel platelet samples performed at
 
 # A Hibernating Squirrel Platelet Study with Tandem Mass Tags
 ## prepared by Jennifer Cunliffe
-## Oregon Health & Science University Proteomcs Shared Resource
+## [Oregon Health & Science University Proteomcs Shared Resource](https://www.ohsu.edu/proteomics-shared-resource)
 ### (OHSU PSR)
 ### April 17, 2020
 
@@ -88,3 +88,5 @@ We were able to identify and quantify over 3000 squirrel platelet proteins. High
 ***
 
 Thank you!
+
+Please contact the [OHSU PSR](https://www.ohsu.edu/proteomics-shared-resource) with any questions.
